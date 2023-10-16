@@ -9,23 +9,44 @@
     },
     "name": "Hernán Ariel Domínguez",
     "title": "Desarrollador Full-Stack",
-    "phto": "Foto de Hernán",
+    "logo": "logo.png",
+    "photo": "photo.jpeg",
+    "photo_description": "Foto de Hernán",
     "about_description": "Soy un profesional dedicado con experiencia en el desarrollo full stack, lo que significa que no solo domino el lado del servidor y el cliente, sino que también tengo una comprensión integral de todo el proceso de desarrollo de software. Mi enfoque es ofrecer soluciones completas y escalables.",
-    "experience_description": "",
-    "skills_description": "",
+    "skills_description": "Esta página está en desarrollo",
     "projects_description": "Esta página está en desarrollo",
+    "contact_description": "Esta página está en desarrollo",
     "linkedin": "Linkedin",
     "github": "GitHub",
     "hackerrank": "HackerRank",
+    "page_contact": {
+        "info": "Información de Contacto",
+        "email": "Email",
+        "phone": "Teléfono",
+        "address": "Dirección",
+        "social": "Redes Sociales"
+    },
     "contact": {
         "email": "dhariel2904@gmail.com",
         "phone": "+541134926714",
-        "address": "José C. Paz, Buenos Aires, Argentina"
-    },
-    "links_social_media": {
-        "linkedin": "https://www.linkedin.com/in/hadominguez",
-        "github": "https://github.com/hadominguez",
-        "hackerrank": "https://www.hackerrank.com/hadominguez"
+        "address": "José C. Paz, Buenos Aires, Argentina",
+        "links": [
+            {
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/hadominguez",
+                "image": "/icons/linkedin.svg"
+            },
+            {
+                "name": "Github",
+                "link": "https://github.com/hadominguez",
+                "image": "/icons/github.svg"
+            },
+            {
+                "name": "HackerRank",
+                "link": "https://www.hackerrank.com/hadominguez",
+                "image": "/icons/hackerrank.svg"
+            }
+        ]
     },
     "page_education": {
         "education_description": [
@@ -114,6 +135,19 @@
             }
         ]
     },
+    "page_experience": {
+        "experience_description": [
+            "Durante mi trayectoria laboral, he tenido la oportunidad de enfrentar diversos retos que han contribuido significativamente a mi desarrollo profesional. En cada etapa, he aprendido valiosas lecciones que han enriquecido mis habilidades y conocimientos.",
+            "Comencé mi carrera con un sentido de curiosidad y disposición para asumir responsabilidades. A medida que asumía nuevas tareas, me enfrentaba a situaciones que requerían soluciones creativas y una capacidad para adaptarme a entornos cambiantes. La versatilidad se convirtió en una habilidad clave que fui desarrollando a lo largo del tiempo.",
+            "La colaboración con colegas de diversas disciplinas y la participación en proyectos multidisciplinarios me brindaron una comprensión más profunda de la importancia del trabajo en equipo. Aprendí a apreciar la diversidad de opiniones y a aprovechar la variedad de habilidades para alcanzar objetivos comunes de manera más eficiente.",
+            "Además, la gestión del tiempo se convirtió en un aspecto esencial de mi experiencia laboral. Aprender a priorizar tareas, establecer plazos realistas y mantener un equilibrio entre la eficiencia y la calidad se volvió crucial en un entorno laboral dinámico.",
+            "A lo largo de los años, he enfrentado desafíos que, aunque en su momento pudieron parecer intimidantes, se transformaron en oportunidades de crecimiento. Estos desafíos no solo me brindaron conocimientos técnicos y prácticos, sino que también fortalecieron mi resiliencia y capacidad para superar obstáculos."
+        ],
+        "company": "Compañía",
+        "start": "Inicio",
+        "end": "Fin",
+        "location": "Ubicación"
+    },
     "work_experience": [
         {
             "position": "Jefe de Sistemas de Gestión Académica y Tecnologías para la Educación",
@@ -131,6 +165,7 @@
         },
         {
             "position": "Desarrollador Full-Stack Freelance",
+            "company": "Freelance",
             "start": "Agosto de 2015",
             "end": "Junio de 2017",
             "location": "José C. Paz, Buenos Aires, Argentina"

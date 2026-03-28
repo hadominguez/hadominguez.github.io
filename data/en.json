@@ -1,323 +1,319 @@
 {
-    "menu": {
-        "about": "Presentation",
-        "education": "Education",
-        "experience": "Experience",
-        "skills": "Skills",
-        "projects": "Projects",
-        "live_projects": "Live projects",
-        "contact": "Contact me"
-    },
-    "name": "Hernán Ariel Domínguez",
-    "title": "Full-Stack Developer",
-    "logo": "/logo.png",
-    "photo": "/photo.jpeg",
-    "photo_description": "Hernan's photo",
-    "about_description": "I am a dedicated professional with experience in full-stack development, which means I not only master the server and client sides but also have a comprehensive understanding of the entire software development process. My focus is on delivering complete and scalable solutions.",
-    "skills_description": "My career in software development has provided me with the opportunity to work with a wide variety of technologies. Over the years, I have gained experience in numerous programming languages, frameworks, and tools. This technological diversity has allowed me to successfully adapt to different development environments and challenges, making me a versatile professional capable of tackling a wide range of projects.",
-    "projects_description": "Here you can see some of my public projects on GitHub.",
-    "live_projects_description": "This page is under development.",
-    "contact_description": "If you want to get in touch with me or learn more about my work, feel free to follow me on my social media.",
-    "page_contact": {
-        "info": "Contact information",
-        "email": "Email",
-        "phone": "Phone",
-        "address": "Address",
-        "social": "Social networks"
-    },
-    "contact": {
-        "email": "dhariel2904@gmail.com",
-        "phone": "+541134926714",
-        "address": "José C. Paz, Buenos Aires, Argentina",
-        "links": [
-            {
-                "name": "Linkedin",
-                "link": "https://www.linkedin.com/in/hadominguez",
-                "image": "/icons/linkedin.svg"
-            },
-            {
-                "name": "Github",
-                "link": "https://github.com/hadominguez",
-                "image": "/icons/github.svg"
-            },
-            {
-                "name": "HackerRank",
-                "link": "https://www.hackerrank.com/hadominguez",
-                "image": "/icons/hackerrank.svg"
-            }
-        ]
-    },
-    "page_education": {
-        "education_description": [
-            "My educational journey has been an exciting voyage of self-discovery and intellectual growth. Attaining my Bachelor's degree in Information Technology Management at the National University of José C. Paz has been a significant milestone in my ongoing quest for knowledge and excellence.",
-            "My thesis project, 'Online Voting System Based on Blockchain', was a testament to my dedication to research and my ability to address complex issues with an analytical and creative approach. This experience solidified my passion for programming and prepared me to tackle challenges in the field in an innovative manner.",
-            "Throughout my educational trajectory, I have embraced every opportunity to learn and grow, and I am eager to apply this knowledge and these skills in my ever-evolving professional career."
-        ],
-        "institution": "Institution",
-        "start": "Start",
-        "end": "End",
-        "location": "Location",
-        "title": "Title",
-        "CGPA": "CGPA"
-    },
-    "education": {
-        "university": [
-            {
-                "institution": "Universidad Nacional de José C. Paz",
-                "start": "July 2017",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Bachelor’s Degree in Business Administration",
-                "intermediate_title": {
-                    "title": "Accounting Analyst",
-                    "end": "July 2023",
-                    "CGPA": 6.32
-                }
-            },
-            {
-                "institution": "Universidad Nacional de José C. Paz",
-                "start": "March 2019",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Bachelor’s Degree in Information Technology Management",
-                "final_title": {
-                    "title": "Bachelor’s Degree in Information Technology Management",
-                    "end": "July 2022",
-                    "CGPA": 7.77
-                },
-                "intermediate_title": {
-                    "title": "Systems Analyst",
-                    "end": "July 2020",
-                    "CGPA": 7.77
-                }
-            },
-            {
-                "institution": "Universidad Nacional de José C. Paz",
-                "start": "March 2013",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Programmer Analyst",
-                "final_title": {
-                    "title": "Programmer Analyst",
-                    "end": "November 2015",
-                    "CGPA": 7.96
-                }
-            }
-        ],
-        "high_school": [
-            {
-                "institution": "Escuela de Educación Media N°1 Brig. Gral. Juan Facundo Quiroga",
-                "start": "March 2010",
-                "location": "San Miguel, Buenos Aires, Argentina",
-                "degree": "High School",
-                "title": "High School Diploma in Economics and Administration",
-                "final_title": {
-                    "end": "December 2012"
-                }
-            },
-            {
-                "institution": "EGB N°38",
-                "start": "March 2007",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "High School",
-                "final_title": {
-                    "end": "December 2009"
-                }
-            }
-        ],
-        "elementary_school": [
-            {
-                "institution": "EGB N°38",
-                "start": "March 2001",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Elementary School",
-                "final_title": {
-                    "end": "December 2006"
-                }
-            }
-        ]
-    },
-    "page_experience": {
-        "experience_description": [
-            "During my professional journey, I have had the opportunity to face various challenges that have significantly contributed to my professional development. At each stage, I have learned valuable lessons that have enriched my skills and knowledge.",
-            "I started my career with a sense of curiosity and a willingness to take on responsibilities. As I took on new tasks, I encountered situations that required creative solutions and an ability to adapt to changing environments. Versatility became a key skill that I developed over time.",
-            "Collaborating with colleagues from diverse disciplines and participating in multidisciplinary projects provided me with a deeper understanding of the importance of teamwork. I learned to appreciate the diversity of opinions and leverage a variety of skills to achieve common goals more efficiently.",
-            "Furthermore, time management became an essential aspect of my work experience. Learning to prioritize tasks, set realistic deadlines, and maintain a balance between efficiency and quality became crucial in a dynamic work environment.",
-            "Over the years, I have faced challenges that, although they may have seemed intimidating at the time, transformed into opportunities for growth. These challenges not only provided me with technical and practical knowledge but also strengthened my resilience and ability to overcome obstacles."
-        ],
-        "company": "Company",
-        "start": "Start",
-        "end": "End",
-        "location": "Location"
-    },
-    "work_experience": [
-        {
-            "position": "Head of Academic Systems and Educational Technologies",
-            "company": "Universidad Nacional de José C. Paz",
-            "start": "May 2021",
-            "end": "Present",
-            "location": "José C. Paz, Buenos Aires, Argentina"
-        },
-        {
-            "position": "Full-Stack Developer",
-            "company": "Universidad Nacional de José C. Paz",
-            "start": "July 2021",
-            "end": "April 2021",
-            "location": "José C. Paz, Buenos Aires, Argentina"
-        },
-        {
-            "position": "Freelance Full-Stack Developer",
-            "company": "Freelance",
-            "start": "August 2015",
-            "end": "June 2017",
-            "location": "José C. Paz, Buenos Aires, Argentina"
-        }
+  "menu": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "nav": {
+    "brand": "Hernan Dominguez",
+    "language": "Language",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "name": "Hernán Ariel Domínguez",
+  "title": "Full Stack Developer",
+  "logo": "/logo.png",
+  "photo": "/photo.jpeg",
+  "photo_description": "Hernan portrait",
+  "hero": {
+    "badge": "Full Stack Developer",
+    "headline": "Building",
+    "headline_accent": "real-world platforms",
+    "lead": "I design and build scalable web applications, lead teams, and deliver systems for public and private organizations with a focus on performance and maintainability.",
+    "cta_primary": "Let’s work together",
+    "cta_secondary": "See projects",
+    "highlights": [
+      {
+        "title": "Scalable Platforms",
+        "description": "Experience building and evolving systems used by real organizations."
+      },
+      {
+        "title": "Team Leadership",
+        "description": "Guided teams, aligned stakeholders, and delivered outcomes." 
+      },
+      {
+        "title": "Architecture",
+        "description": "Focus on clean design, integrations, and performance."
+      }
     ],
-    "page_skill": {
-        "programming_languages": "Programming Languages",
-        "libraries_frameworks": "Libraries and Frameworks",
-        "databases": "Databases"
-    },
-    "skills": {
-        "programming_languages": [
-            {
-                "name": "PHP",
-                "icon": "/icons/php.svg",
-                "level": 90
-            },
-            {
-                "name": "JavaScript",
-                "icon": "/icons/javascript.svg",
-                "level": 90
-            },
-            {
-                "name": "Python",
-                "icon": "/icons/python.svg",
-                "level": 80
-            },
-            {
-                "name": "C#",
-                "icon": "/icons/csharp.svg",
-                "level": 70
-            },
-            {
-                "name": "TypeScript",
-                "icon": "/icons/typescript.svg",
-                "level": 60
-            },
-            {
-                "name": "Java",
-                "icon": "/icons/java.svg",
-                "level": 40
-            },
-            {
-                "name": "Dart",
-                "icon": "/icons/dart.svg",
-                "level": 20
-            }
-        ],
-        "libraries_frameworks": [
-            {
-                "name": "React.js",
-                "icon": "/icons/react.svg",
-                "level": 90
-            },
-            {
-                "name": "Vue.js",
-                "icon": "/icons/vue.svg",
-                "level": 50
-            },
-            {
-                "name": "Angular.js",
-                "icon": "/icons/angular.svg",
-                "level": 30
-            },
-            {
-                "name": "Express.js",
-                "icon": "/icons/express.svg",
-                "level": 95
-            },
-            {
-                "name": "Nest.js",
-                "icon": "/icons/nestjs.svg",
-                "level": 40
-            },
-            {
-                "name": "Next.js",
-                "icon": "/icons/nextjs.svg",
-                "level": 80
-            },
-            {
-                "name": "Laravel",
-                "icon": "/icons/laravel.svg",
-                "level": 90
-            },
-            {
-                "name": "Symfony",
-                "icon": "/icons/symfony.svg",
-                "level": 90
-            },
-            {
-                "name": "Django",
-                "icon": "/icons/django.svg",
-                "level": 70
-            },
-            {
-                "name": "ASP.NET",
-                "icon": "/icons/net-core.svg",
-                "level": 60
-            }
-        ],
-        "databases": [
-            {
-                "name": "PostgreSQL",
-                "icon": "/icons/postgresql.svg",
-                "level": 95
-            },
-            {
-                "name": "MySQL",
-                "icon": "/icons/mysql.svg",
-                "level": 80
-            },
-            {
-                "name": "MSSQL",
-                "icon": "/icons/sql-server.svg",
-                "level": 80
-            },
-            {
-                "name": "MongoDB",
-                "icon": "/icons/mongodb.svg",
-                "level": 70
-            }
-        ]
-    },
-    "projects": [
-        {
-            "name": "Task Management - Laravel 9 Project with Vite and Tailwind CSS",
-            "links": ["https://github.com/hadominguez/tasks-laravel-tailwind"],
-            "images": ["/projects/tasks.png"]
-        },
-        {
-            "name": "COVID-19 Dashboard",
-            "links": ["https://github.com/hadominguez/covid-dashboard"],
-            "images": ["/projects/covid.png"]
-        },
-        {
-            "name": "Scraping Bot Discord - Nike Jordan Edition",
-            "links": ["https://github.com/hadominguez/scraping-bot-discord"],
-            "images": ["/projects/bot-discord.png"]
-        },
-        {
-            "name": "API Market Apollo Server",
-            "links": ["https://github.com/hadominguez/api-market-apollo-server"],
-            "images": ["/projects/api-apollo.png"]
-        },
-        {
-            "name": "API-REST of Providers",
-            "links": ["https://github.com/hadominguez/api-proveedores"],
-            "images": ["/projects/api-rest.png"]
-        },
-        {
-            "name": "Mobile Blockchain-Based Voting System",
-            "links": ["https://github.com/hadominguez/app-votacion", "https://github.com/hadominguez/votacion-padron", "https://github.com/hadominguez/votacion-minero"],
-            "images": ["/projects/voting.png"]
-        }
+    "chips": [
+      "Spanish · Native",
+      "English · Professional",
+      "SQL Certified",
+      "Python for Data Science",
+      "System Design",
+      "Team Leadership"
     ]
+  },
+  "about_description": "Full Stack Developer with experience building scalable web applications, leading teams, and designing systems for public and private sectors.",
+  "skills_description": "Focused stack across frontend, backend, and infrastructure to deliver maintainable systems.",
+  "experience_intro": "Hands-on leadership and development roles across universities, enterprise platforms, and freelance work.",
+  "experience": {
+    "note_prefix": "Note:"
+  },
+  "education_intro": "Academic background in software engineering, IT management, and business administration.",
+  "projects_description": "Selected public repositories and product experiments.",
+  "contact_description": "Let’s connect if you are building platforms that need clarity, reliability, and scale.",
+  "projects": {
+    "cta": "View on GitHub",
+    "list": [
+      {
+        "name": "Task Management · Laravel 9",
+        "summary": "Admin dashboard with authentication, tasks, and modern UI.",
+        "tags": ["Laravel", "Vite", "Tailwind"],
+        "links": ["https://github.com/hadominguez/tasks-laravel-tailwind"],
+        "images": ["/projects/tasks.png"]
+      },
+      {
+        "name": "COVID-19 Dashboard",
+        "summary": "Data visualization experience for public health metrics.",
+        "tags": ["React", "Charts", "API"],
+        "links": ["https://github.com/hadominguez/covid-dashboard"],
+        "images": ["/projects/covid.png"]
+      },
+      {
+        "name": "API Market (Apollo Server)",
+        "summary": "GraphQL marketplace API with authentication and services.",
+        "tags": ["GraphQL", "Node.js"],
+        "links": ["https://github.com/hadominguez/api-market-apollo-server"],
+        "images": ["/projects/api-apollo.png"]
+      },
+      {
+        "name": "Provider REST API",
+        "summary": "REST API with CRUD flows, validation, and documentation.",
+        "tags": ["REST", "Express"],
+        "links": ["https://github.com/hadominguez/api-proveedores"],
+        "images": ["/projects/api-rest.png"]
+      },
+      {
+        "name": "Mobile Blockchain Voting",
+        "summary": "Mobile voting system with blockchain-based verification.",
+        "tags": ["Blockchain", "Mobile"],
+        "links": [
+          "https://github.com/hadominguez/app-votacion",
+          "https://github.com/hadominguez/votacion-padron",
+          "https://github.com/hadominguez/votacion-minero"
+        ],
+        "images": ["/projects/voting.png"]
+      }
+    ]
+  },
+  "page_contact": {
+    "social": "Networks"
+  },
+  "contact": {
+    "availability_title": "Availability",
+    "availability_description": "Open to consulting and product collaborations focused on complex, real-world systems.",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/hadominguez",
+        "image": "/icons/linkedin.svg"
+      },
+      {
+        "name": "GitHub",
+        "link": "https://github.com/hadominguez",
+        "image": "/icons/github.svg"
+      },
+      {
+        "name": "HackerRank",
+        "link": "https://www.hackerrank.com/hadominguez",
+        "image": "/icons/hackerrank.svg"
+      }
+    ]
+  },
+  "page_skill": {
+    "programming_languages": "Programming Languages",
+    "libraries_frameworks": "Libraries & Frameworks",
+    "databases": "Databases",
+    "devops": "DevOps"
+  },
+  "skills": {
+    "orbits": [
+      {
+        "title": "Programming Languages",
+        "items": [
+          { "name": "JavaScript", "icon": "/icons/devicon/javascript-original.svg" },
+          { "name": "TypeScript", "icon": "/icons/devicon/typescript-original.svg" },
+          { "name": "PHP", "icon": "/icons/devicon/php-plain.svg" },
+          { "name": "Python", "icon": "/icons/devicon/python-original.svg" },
+          { "name": "C#", "icon": "/icons/devicon/csharp-original.svg" },
+          { "name": "Java", "icon": "/icons/devicon/java-original.svg" }
+        ]
+      },
+      {
+        "title": "Frameworks & Libraries",
+        "items": [
+          { "name": "React", "icon": "/icons/devicon/react-original.svg" },
+          { "name": "Vue.js", "icon": "/icons/devicon/vuejs-original.svg" },
+          { "name": "Express", "icon": "/icons/devicon/express-original.svg" },
+          { "name": "NestJS", "icon": "/icons/devicon/nestjs-original.svg" },
+          { "name": "Symfony", "icon": "/icons/devicon/symfony-original.svg" },
+          { "name": "Laravel", "icon": "/icons/devicon/laravel-original.svg" },
+          { "name": "Next.js", "icon": "/icons/devicon/nextjs-original.svg" }
+        ]
+      },
+      {
+        "title": "Databases",
+        "items": [
+          { "name": "PostgreSQL", "icon": "/icons/devicon/postgresql-original.svg" },
+          { "name": "MySQL / MariaDB", "icon": "/icons/devicon/mysql-original.svg" },
+          { "name": "SQL Server", "icon": "/icons/devicon/microsoftsqlserver-plain.svg" },
+          { "name": "MongoDB", "icon": "/icons/devicon/mongodb-original.svg" }
+        ]
+      },
+      {
+        "title": "ORM & Data Access",
+        "items": [
+          { "name": "Prisma", "icon": "/icons/devicon/prisma-original.svg" },
+          { "name": "Doctrine", "icon": "/icons/devicon/doctrine-original.svg" },
+          { "name": "Sequelize", "icon": "/icons/devicon/sequelize-original.svg" }
+        ]
+      },
+      {
+        "title": "DevOps & Infrastructure",
+        "items": [
+          { "name": "Docker", "icon": "/icons/devicon/docker-original.svg" },
+          { "name": "PM2", "icon": "/icons/devicon/pm2-original.svg" },
+          { "name": "Nginx", "icon": "/icons/devicon/nginx-original.svg" },
+          { "name": "Linux", "icon": "/icons/devicon/linux-original.svg" },
+          { "name": "CI/CD", "icon": "/icons/devicon/githubactions-original.svg" }
+        ]
+      },
+      {
+        "title": "UI & Styling",
+        "items": [
+          { "name": "Tailwind CSS", "icon": "/icons/devicon/tailwindcss-original.svg" },
+          { "name": "Material UI", "icon": "/icons/devicon/materialui-original.svg" }
+        ]
+      }
+    ],
+    "text_groups": [
+      {
+        "title": "Authentication & Security",
+        "items": ["JWT", "Session Management", "RBAC", "Middleware-based auth"]
+      },
+      {
+        "title": "APIs & Backend",
+        "items": ["REST API Design", "API-first Architecture", "File Uploads (Multer)", "Pagination/Filtering/Sorting", "Error Handling & Validation"]
+      },
+      {
+        "title": "Testing & Code Quality",
+        "items": ["PHPUnit", "Jest", "Unit Testing", "ESLint", "PHP CS Fixer"]
+      },
+      {
+        "title": "Architecture & Best Practices",
+        "items": ["Clean Code", "Modular Architecture", "MVC Pattern", "Separation of Concerns", "Scalable System Design", "Legacy Refactoring"]
+      },
+      {
+        "title": "Frontend & UI/UX",
+        "items": ["Component-based Architecture", "Vue 3 Composition API", "React Hooks", "Responsive Design", "State Management Patterns"]
+      },
+      {
+        "title": "Integrations & Data Processing",
+        "items": ["OpenAI API Integrations", "CSV Import/Export", "PDF Processing (Python)", "Data Validation & Transformation"]
+      }
+    ]
+  },
+  "work_experience": [
+      {
+        "position": "Full Stack Developer",
+        "company": "Zennovia",
+        "start": "2025",
+        "end": "Present",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.08,
+        "highlights": [
+        "Built complex frontends in Vue and React for VALT and SisMaster.",
+        "Developed backend APIs and business logic (Node.js, Symfony).",
+        "Improved performance, integrations, and multi-version maintenance."
+      ]
+    },
+      {
+        "position": "Head of Systems",
+        "company": "Universidad Nacional de José Clemente Paz",
+        "start": "2021",
+        "end": "2025",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.33,
+        "highlights": [
+        "Led academic systems and educational technology teams.",
+        "Coordinated cross-department process optimization.",
+        "Delivered academic management systems at scale."
+      ]
+    },
+      {
+        "position": "Teaching Assistant (Programming)",
+        "company": "Universidad Nacional de José Clemente Paz",
+        "start": "2023",
+        "end": "2023",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.56,
+        "highlights": [
+        "Taught programming fundamentals and Python support.",
+        "Created educational materials for students."
+      ]
+    },
+      {
+        "position": "Full Stack Developer",
+        "company": "Universidad Nacional de José Clemente Paz",
+        "start": "2017",
+        "end": "2021",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.61,
+        "highlights": [
+        "Built and maintained 10+ internal systems.",
+        "Created tools for academic management and reporting.",
+        "Worked across legacy and modern architectures."
+      ]
+    },
+      {
+        "position": "Freelance Developer",
+        "company": "Independent",
+        "start": "2015",
+        "end": "2017",
+        "location": "Remote",
+        "hue": 0.02,
+        "highlights": [
+        "Delivered custom solutions using PHP, PostgreSQL, and C#."
+      ]
+    }
+  ],
+  "education": {
+    "list": [
+      {
+        "degree": "MSc in Software Engineering (In progress)",
+        "institution": "Universidad Nacional de La Plata",
+        "location": "La Plata, Argentina",
+        "period": "2024 - Present",
+        "hue": 0.56,
+        "note": "Focused on scalable architectures and systems engineering."
+      },
+      {
+        "degree": "Bachelor’s in IT Management",
+        "institution": "Universidad Nacional de José Clemente Paz",
+        "location": "Buenos Aires, Argentina",
+        "period": "2019 - 2022",
+        "hue": 0.33
+      },
+      {
+        "degree": "Bachelor’s in Business Administration (In progress)",
+        "institution": "Universidad Nacional de José Clemente Paz",
+        "location": "Buenos Aires, Argentina",
+        "period": "2017 - Present",
+        "hue": 0.08,
+        "note": "Intermediate degree completed: Accounting Analyst."
+      },
+      {
+        "degree": "Programming Analyst Degree",
+        "institution": "Universidad Nacional de José Clemente Paz",
+        "location": "Buenos Aires, Argentina",
+        "period": "2013 - 2015",
+        "hue": 0.61
+      }
+    ]
+  }
 }

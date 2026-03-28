@@ -1,323 +1,319 @@
 {
-    "menu": {
-        "about": "Presentación",
-        "education": "Educación",
-        "experience": "Experiencia",
-        "skills": "Habilidades",
-        "projects": "Proyectos",
-        "live_projects": "Proyectos en vivo",
-        "contact": "Contáctame"
-    },
-    "name": "Hernán Ariel Domínguez",
-    "title": "Desarrollador Full-Stack",
-    "logo": "/logo.png",
-    "photo": "/photo.jpeg",
-    "photo_description": "Foto de Hernán",
-    "about_description": "Soy un profesional dedicado con experiencia en el desarrollo full stack, lo que significa que no solo domino el lado del servidor y el cliente, sino que también tengo una comprensión integral de todo el proceso de desarrollo de software. Mi enfoque es ofrecer soluciones completas y escalables.",
-    "skills_description": "Mi carrera en el desarrollo de software me ha brindado la oportunidad de trabajar con una amplia variedad de tecnologías. A lo largo de los años, he adquirido experiencia en numerosos lenguajes de programación, frameworks y herramientas. Esta diversidad tecnológica me ha permitido adaptarme con éxito a diferentes entornos y desafíos de desarrollo, lo que me ha convertido en un profesional versátil y capaz de abordar una amplia gama de proyectos.",
-    "projects_description": "Aquí puedes ver algunos de mis proyectos públicos en GitHub.",
-    "live_projects_description": "Esta página está en desarrollo.",
-    "contact_description": "Si deseas ponerse en contacto conmigo o conocer más sobre mi trabajo, no dudes en seguirme en mis redes sociales.",
-    "page_contact": {
-        "info": "Información de Contacto",
-        "email": "Email",
-        "phone": "Teléfono",
-        "address": "Dirección",
-        "social": "Redes Sociales"
-    },
-    "contact": {
-        "email": "dhariel2904@gmail.com",
-        "phone": "+541134926714",
-        "address": "José C. Paz, Buenos Aires, Argentina",
-        "links": [
-            {
-                "name": "Linkedin",
-                "link": "https://www.linkedin.com/in/hadominguez",
-                "image": "/icons/linkedin.svg"
-            },
-            {
-                "name": "Github",
-                "link": "https://github.com/hadominguez",
-                "image": "/icons/github.svg"
-            },
-            {
-                "name": "HackerRank",
-                "link": "https://www.hackerrank.com/hadominguez",
-                "image": "/icons/hackerrank.svg"
-            }
-        ]
-    },
-    "page_education": {
-        "education_description": [
-            "Mi viaje educativo ha sido un emocionante viaje de autodescubrimiento y crecimiento intelectual. Obtener mi licenciatura en Gestión de Tecnologías de la Información en la Universidad Nacional de José C. Paz ha sido un hito significativo en mi búsqueda constante de conocimiento y excelencia.",
-            "Mi proyecto de tesis, 'Sistema de Votación Online Basado en Blockchain', fue un testimonio de mi dedicación a la investigación y mi capacidad para abordar problemas complejos con un enfoque analítico y creativo. Esta experiencia consolidó mi pasión por la programación y me preparó para enfrentar desafíos en el campo de manera innovadora.",
-            "A lo largo de mi trayectoria educativa, he abrazado cada oportunidad para aprender y crecer, y estoy emocionado de aplicar estos conocimientos y habilidades en mi carrera profesional en constante evolución."
-        ],
-        "institution": "Institución",
-        "start": "Inicio",
-        "end": "Fin",
-        "location": "Ubicación",
-        "title": "Título",
-        "CGPA": "Promedio"
-    },
-    "education": {
-        "university": [
-            {
-                "institution": "Universidad Nacional de José C. Paz",
-                "start": "Julio de 2017",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Licenciatura en Administración",
-                "intermediate_title": {
-                    "title": "Analista Contable",
-                    "end": "Julio de 2023",
-                    "CGPA": 6.32
-                }
-            },
-            {
-                "institution": "Universidad Nacional de José C. Paz",
-                "start": "Marzo de 2019",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Licenciatura en Gestión de Tecnologías de la Información",
-                "final_title": {
-                    "title": "Licenciatura en Gestión de Tecnologías de la Información",
-                    "end": "Julio de 2022",
-                    "CGPA": 7.77
-                },
-                "intermediate_title": {
-                    "title": "Analista de Sistemas",
-                    "end": "Julio de 2020",
-                    "CGPA": 7.77
-                }
-            },
-            {
-                "institution": "Universidad Nacional de José C. Paz",
-                "start": "Marzo de 2013",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Analista Programador",
-                "final_title": {
-                    "title": "Analista Programador",
-                    "end": "Noviembre de 2015",
-                    "CGPA": 7.96
-                }
-            }
-        ],
-        "high_school": [
-            {
-                "institution": "Escuela de Educación Media N°1 Brig. Gral. Juan Facundo Quiroga",
-                "start": "Marzo de 2010",
-                "location": "San Miguel, Buenos Aires, Argentina",
-                "title": "Bachillerato en Economía y Administración",
-                "degree": "Escuela Secundaria",
-                "final_title": {
-                    "end": "Diciembre de 2012"
-                }
-            },
-            {
-                "institution": "EGB N°38",
-                "start": "Marzo de 2007",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Escuela Secundaria",
-                "final_title": {
-                    "end": "Diciembre de 2009"
-                }
-            }
-        ],
-        "elementary_school": [
-            {
-                "institution": "EGB N°38",
-                "start": "Marzo de 2001",
-                "location": "José C. Paz, Buenos Aires, Argentina",
-                "degree": "Escuela Primaria",
-                "final_title": {
-                    "end": "Diciembre de 2006"
-                }
-            }
-        ]
-    },
-    "page_experience": {
-        "experience_description": [
-            "Durante mi trayectoria laboral, he tenido la oportunidad de enfrentar diversos retos que han contribuido significativamente a mi desarrollo profesional. En cada etapa, he aprendido valiosas lecciones que han enriquecido mis habilidades y conocimientos.",
-            "Comencé mi carrera con un sentido de curiosidad y disposición para asumir responsabilidades. A medida que asumía nuevas tareas, me enfrentaba a situaciones que requerían soluciones creativas y una capacidad para adaptarme a entornos cambiantes. La versatilidad se convirtió en una habilidad clave que fui desarrollando a lo largo del tiempo.",
-            "La colaboración con colegas de diversas disciplinas y la participación en proyectos multidisciplinarios me brindaron una comprensión más profunda de la importancia del trabajo en equipo. Aprendí a apreciar la diversidad de opiniones y a aprovechar la variedad de habilidades para alcanzar objetivos comunes de manera más eficiente.",
-            "Además, la gestión del tiempo se convirtió en un aspecto esencial de mi experiencia laboral. Aprender a priorizar tareas, establecer plazos realistas y mantener un equilibrio entre la eficiencia y la calidad se volvió crucial en un entorno laboral dinámico.",
-            "A lo largo de los años, he enfrentado desafíos que, aunque en su momento pudieron parecer intimidantes, se transformaron en oportunidades de crecimiento. Estos desafíos no solo me brindaron conocimientos técnicos y prácticos, sino que también fortalecieron mi resiliencia y capacidad para superar obstáculos."
-        ],
-        "company": "Compañía",
-        "start": "Inicio",
-        "end": "Fin",
-        "location": "Ubicación"
-    },
-    "work_experience": [
-        {
-            "position": "Jefe de Sistemas de Gestión Académica y Tecnologías para la Educación",
-            "company": "Universidad Nacional de José C. Paz",
-            "start": "Mayo de 2021",
-            "end": "Presente",
-            "location": "José C. Paz, Buenos Aires, Argentina"
-        },
-        {
-            "position": "Desarrollador Full-Stack",
-            "company": "Universidad Nacional de José C. Paz",
-            "start": "Julio de 2021",
-            "end": "Abril de 2021",
-            "location": "José C. Paz, Buenos Aires, Argentina"
-        },
-        {
-            "position": "Desarrollador Full-Stack Freelance",
-            "company": "Freelance",
-            "start": "Agosto de 2015",
-            "end": "Junio de 2017",
-            "location": "José C. Paz, Buenos Aires, Argentina"
-        }
+  "menu": {
+    "about": "Presentación",
+    "education": "Educación",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "nav": {
+    "brand": "Hernán Domínguez",
+    "language": "Idioma",
+    "menu": "Menú",
+    "close": "Cerrar"
+  },
+  "name": "Hernán Ariel Domínguez",
+  "title": "Desarrollador Full Stack",
+  "logo": "/logo.png",
+  "photo": "/photo.jpeg",
+  "photo_description": "Retrato de Hernán",
+  "hero": {
+    "badge": "Desarrollador Full Stack",
+    "headline": "Construyo",
+    "headline_accent": "plataformas reales",
+    "lead": "Diseño y desarrollo aplicaciones web escalables, lidero equipos y entrego sistemas para sectores públicos y privados con foco en performance y mantenibilidad.",
+    "cta_primary": "Trabajemos juntos",
+    "cta_secondary": "Ver proyectos",
+    "highlights": [
+      {
+        "title": "Plataformas Escalables",
+        "description": "Experiencia construyendo y evolucionando sistemas para organizaciones reales."
+      },
+      {
+        "title": "Liderazgo de Equipos",
+        "description": "Liderazgo técnico, alineación de stakeholders y entregas consistentes."
+      },
+      {
+        "title": "Arquitectura",
+        "description": "Diseño limpio, integraciones sólidas y rendimiento."
+      }
     ],
-    "page_skill": {
-        "programming_languages": "Lenguajes de Programación",
-        "libraries_frameworks": "Bibliotecas y Marcos de Trabajo",
-        "databases": "Bases de datos"
-    },
-    "skills": {
-        "programming_languages": [
-            {
-                "name": "PHP",
-                "icon": "/icons/php.svg",
-                "level": 90
-            },
-            {
-                "name": "JavaScript",
-                "icon": "/icons/javascript.svg",
-                "level": 90
-            },
-            {
-                "name": "Python",
-                "icon": "/icons/python.svg",
-                "level": 80
-            },
-            {
-                "name": "C#",
-                "icon": "/icons/csharp.svg",
-                "level": 70
-            },
-            {
-                "name": "TypeScript",
-                "icon": "/icons/typescript.svg",
-                "level": 60
-            },
-            {
-                "name": "Java",
-                "icon": "/icons/java.svg",
-                "level": 40
-            },
-            {
-                "name": "Dart",
-                "icon": "/icons/dart.svg",
-                "level": 20
-            }
-        ],
-        "libraries_frameworks": [
-            {
-                "name": "React.js",
-                "icon": "/icons/react.svg",
-                "level": 90
-            },
-            {
-                "name": "Vue.js",
-                "icon": "/icons/vue.svg",
-                "level": 50
-            },
-            {
-                "name": "Angular.js",
-                "icon": "/icons/angular.svg",
-                "level": 30
-            },
-            {
-                "name": "Express.js",
-                "icon": "/icons/express.svg",
-                "level": 95
-            },
-            {
-                "name": "Nest.js",
-                "icon": "/icons/nestjs.svg",
-                "level": 40
-            },
-            {
-                "name": "Next.js",
-                "icon": "/icons/nextjs.svg",
-                "level": 80
-            },
-            {
-                "name": "Laravel",
-                "icon": "/icons/laravel.svg",
-                "level": 90
-            },
-            {
-                "name": "Symfony",
-                "icon": "/icons/symfony.svg",
-                "level": 90
-            },
-            {
-                "name": "Django",
-                "icon": "/icons/django.svg",
-                "level": 70
-            },
-            {
-                "name": "ASP.NET",
-                "icon": "/icons/net-core.svg",
-                "level": 60
-            }
-        ],
-        "databases": [
-            {
-                "name": "PostgreSQL",
-                "icon": "/icons/postgresql.svg",
-                "level": 95
-            },
-            {
-                "name": "MySQL",
-                "icon": "/icons/mysql.svg",
-                "level": 80
-            },
-            {
-                "name": "MSSQL",
-                "icon": "/icons/sql-server.svg",
-                "level": 80
-            },
-            {
-                "name": "MongoDB",
-                "icon": "/icons/mongodb.svg",
-                "level": 70
-            }
-        ]
-    },
-    "projects": [
-        {
-            "name": "Task Management - Laravel 9 Project with Vite and Tailwind CSS",
-            "links": ["https://github.com/hadominguez/tasks-laravel-tailwind"],
-            "images": ["/projects/tasks.png"]
-        },
-        {
-            "name": "COVID-19 Dashboard",
-            "links": ["https://github.com/hadominguez/covid-dashboard"],
-            "images": ["/projects/covid.png"]
-        },
-        {
-            "name": "Scraping Bot Discord - Nike Jordan Edition",
-            "links": ["https://github.com/hadominguez/scraping-bot-discord"],
-            "images": ["/projects/bot-discord.png"]
-        },
-        {
-            "name": "API Market Apollo Server",
-            "links": ["https://github.com/hadominguez/api-market-apollo-server"],
-            "images": ["/projects/api-apollo.png"]
-        },
-        {
-            "name": "API-REST of Providers",
-            "links": ["https://github.com/hadominguez/api-proveedores"],
-            "images": ["/projects/api-rest.png"]
-        },
-        {
-            "name": "Mobile Blockchain-Based Voting System",
-            "links": ["https://github.com/hadominguez/app-votacion", "https://github.com/hadominguez/votacion-padron", "https://github.com/hadominguez/votacion-minero"],
-            "images": ["/projects/voting.png"]
-        }
+    "chips": [
+      "Español · Nativo",
+      "Inglés · Profesional",
+      "SQL Certificado",
+      "Python para Data Science",
+      "Diseño de Sistemas",
+      "Liderazgo de equipos"
     ]
+  },
+  "about_description": "Desarrollador Full Stack con experiencia en aplicaciones escalables, liderazgo de equipos y diseño de sistemas para organizaciones públicas y privadas.",
+  "skills_description": "Stack enfocado en frontend, backend e infraestructura para entregar sistemas mantenibles.",
+  "experience_intro": "Roles de liderazgo y desarrollo en universidades, plataformas enterprise y proyectos freelance.",
+  "experience": {
+    "note_prefix": "Nota:"
+  },
+  "education_intro": "Formación en ingeniería de software, gestión de TI y administración.",
+  "projects_description": "Repositorios públicos y experimentos de producto seleccionados.",
+  "contact_description": "Conectemos si estás construyendo plataformas que necesitan claridad, confiabilidad y escala.",
+  "projects": {
+    "cta": "Ver en GitHub",
+    "list": [
+      {
+        "name": "Task Management · Laravel 9",
+        "summary": "Dashboard administrativo con autenticación, tareas y UI moderna.",
+        "tags": ["Laravel", "Vite", "Tailwind"],
+        "links": ["https://github.com/hadominguez/tasks-laravel-tailwind"],
+        "images": ["/projects/tasks.png"]
+      },
+      {
+        "name": "COVID-19 Dashboard",
+        "summary": "Visualización de datos para métricas de salud pública.",
+        "tags": ["React", "Charts", "API"],
+        "links": ["https://github.com/hadominguez/covid-dashboard"],
+        "images": ["/projects/covid.png"]
+      },
+      {
+        "name": "API Market (Apollo Server)",
+        "summary": "API GraphQL con autenticación y servicios de marketplace.",
+        "tags": ["GraphQL", "Node.js"],
+        "links": ["https://github.com/hadominguez/api-market-apollo-server"],
+        "images": ["/projects/api-apollo.png"]
+      },
+      {
+        "name": "API REST de Proveedores",
+        "summary": "API REST con flujos CRUD, validaciones y documentación.",
+        "tags": ["REST", "Express"],
+        "links": ["https://github.com/hadominguez/api-proveedores"],
+        "images": ["/projects/api-rest.png"]
+      },
+      {
+        "name": "Votación Blockchain Mobile",
+        "summary": "Sistema de votación móvil con verificación en blockchain.",
+        "tags": ["Blockchain", "Mobile"],
+        "links": [
+          "https://github.com/hadominguez/app-votacion",
+          "https://github.com/hadominguez/votacion-padron",
+          "https://github.com/hadominguez/votacion-minero"
+        ],
+        "images": ["/projects/voting.png"]
+      }
+    ]
+  },
+  "page_contact": {
+    "social": "Redes"
+  },
+  "contact": {
+    "availability_title": "Disponibilidad",
+    "availability_description": "Disponible para consultoría y colaboraciones en productos con sistemas complejos reales.",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/hadominguez",
+        "image": "/icons/linkedin.svg"
+      },
+      {
+        "name": "GitHub",
+        "link": "https://github.com/hadominguez",
+        "image": "/icons/github.svg"
+      },
+      {
+        "name": "HackerRank",
+        "link": "https://www.hackerrank.com/hadominguez",
+        "image": "/icons/hackerrank.svg"
+      }
+    ]
+  },
+  "page_skill": {
+    "programming_languages": "Lenguajes de Programación",
+    "libraries_frameworks": "Bibliotecas y Frameworks",
+    "databases": "Bases de datos",
+    "devops": "DevOps"
+  },
+  "skills": {
+    "orbits": [
+      {
+        "title": "Lenguajes de Programación",
+        "items": [
+          { "name": "JavaScript", "icon": "/icons/devicon/javascript-original.svg" },
+          { "name": "TypeScript", "icon": "/icons/devicon/typescript-original.svg" },
+          { "name": "PHP", "icon": "/icons/devicon/php-plain.svg" },
+          { "name": "Python", "icon": "/icons/devicon/python-original.svg" },
+          { "name": "C#", "icon": "/icons/devicon/csharp-original.svg" },
+          { "name": "Java", "icon": "/icons/devicon/java-original.svg" }
+        ]
+      },
+      {
+        "title": "Frameworks y Librerías",
+        "items": [
+          { "name": "React", "icon": "/icons/devicon/react-original.svg" },
+          { "name": "Vue.js", "icon": "/icons/devicon/vuejs-original.svg" },
+          { "name": "Express", "icon": "/icons/devicon/express-original.svg" },
+          { "name": "NestJS", "icon": "/icons/devicon/nestjs-original.svg" },
+          { "name": "Symfony", "icon": "/icons/devicon/symfony-original.svg" },
+          { "name": "Laravel", "icon": "/icons/devicon/laravel-original.svg" },
+          { "name": "Next.js", "icon": "/icons/devicon/nextjs-original.svg" }
+        ]
+      },
+      {
+        "title": "Bases de Datos",
+        "items": [
+          { "name": "PostgreSQL", "icon": "/icons/devicon/postgresql-original.svg" },
+          { "name": "MySQL / MariaDB", "icon": "/icons/devicon/mysql-original.svg" },
+          { "name": "SQL Server", "icon": "/icons/devicon/microsoftsqlserver-plain.svg" },
+          { "name": "MongoDB", "icon": "/icons/devicon/mongodb-original.svg" }
+        ]
+      },
+      {
+        "title": "ORM y Acceso a Datos",
+        "items": [
+          { "name": "Prisma", "icon": "/icons/devicon/prisma-original.svg" },
+          { "name": "Doctrine", "icon": "/icons/devicon/doctrine-original.svg" },
+          { "name": "Sequelize", "icon": "/icons/devicon/sequelize-original.svg" }
+        ]
+      },
+      {
+        "title": "DevOps e Infraestructura",
+        "items": [
+          { "name": "Docker", "icon": "/icons/devicon/docker-original.svg" },
+          { "name": "PM2", "icon": "/icons/devicon/pm2-original.svg" },
+          { "name": "Nginx", "icon": "/icons/devicon/nginx-original.svg" },
+          { "name": "Linux", "icon": "/icons/devicon/linux-original.svg" },
+          { "name": "CI/CD", "icon": "/icons/devicon/githubactions-original.svg" }
+        ]
+      },
+      {
+        "title": "UI y Estilos",
+        "items": [
+          { "name": "Tailwind CSS", "icon": "/icons/devicon/tailwindcss-original.svg" },
+          { "name": "Material UI", "icon": "/icons/devicon/materialui-original.svg" }
+        ]
+      }
+    ],
+    "text_groups": [
+      {
+        "title": "Autenticación y Seguridad",
+        "items": ["JWT", "Gestión de Sesiones", "RBAC", "Auth basada en middleware"]
+      },
+      {
+        "title": "APIs y Backend",
+        "items": ["Diseño de REST APIs", "Arquitectura API-first", "Carga de archivos (Multer)", "Paginación/Filtrado/Ordenamiento", "Validación y manejo de errores"]
+      },
+      {
+        "title": "Testing y Calidad",
+        "items": ["PHPUnit", "Jest", "Testing unitario", "ESLint", "PHP CS Fixer"]
+      },
+      {
+        "title": "Arquitectura y Buenas Prácticas",
+        "items": ["Clean Code", "Arquitectura modular", "Patrón MVC", "Separación de responsabilidades", "Diseño escalable", "Refactor de legacy"]
+      },
+      {
+        "title": "Frontend & UI/UX",
+        "items": ["Arquitectura por componentes", "Vue 3 Composition API", "React Hooks", "Diseño responsive", "Patrones de estado"]
+      },
+      {
+        "title": "Integraciones y Procesamiento",
+        "items": ["Integraciones OpenAI API", "Import/Export CSV", "Procesamiento PDF (Python)", "Validación y transformación de datos"]
+      }
+    ]
+  },
+  "work_experience": [
+      {
+        "position": "Full Stack Developer",
+        "company": "Zennovia",
+        "start": "2025",
+        "end": "Presente",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.08,
+        "highlights": [
+        "Interfaces complejas en Vue y React para VALT y SisMaster.",
+        "APIs y lógica de negocio en Node.js y Symfony.",
+        "Performance, integraciones y mantenimiento multi-versión."
+      ]
+    },
+      {
+        "position": "Jefe de Sistemas",
+        "company": "Universidad Nacional de José Clemente Paz",
+        "start": "2021",
+        "end": "2025",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.33,
+        "highlights": [
+        "Liderazgo del área de sistemas académicos y tecnología educativa.",
+        "Optimización de procesos entre áreas.",
+        "Entrega de sistemas de gestión académica a gran escala."
+      ]
+    },
+      {
+        "position": "Ayudante de Cátedra (Programación)",
+        "company": "Universidad Nacional de José Clemente Paz",
+        "start": "2023",
+        "end": "2023",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.56,
+        "highlights": [
+        "Clases de fundamentos de programación y soporte en Python.",
+        "Materiales educativos para estudiantes."
+      ]
+    },
+      {
+        "position": "Desarrollador Full Stack",
+        "company": "Universidad Nacional de José Clemente Paz",
+        "start": "2017",
+        "end": "2021",
+        "location": "Buenos Aires, Argentina",
+        "hue": 0.61,
+        "highlights": [
+        "Desarrollo y mantenimiento de más de 10 sistemas internos.",
+        "Herramientas para gestión académica y reportes.",
+        "Arquitecturas legacy y modernas en paralelo."
+      ]
+    },
+      {
+        "position": "Desarrollador Freelance",
+        "company": "Independiente",
+        "start": "2015",
+        "end": "2017",
+        "location": "Remoto",
+        "hue": 0.02,
+        "highlights": [
+        "Soluciones a medida con PHP, PostgreSQL y C#."
+      ]
+    }
+  ],
+  "education": {
+    "list": [
+      {
+        "degree": "Maestría en Ingeniería de Software (En curso)",
+        "institution": "Universidad Nacional de La Plata",
+        "location": "La Plata, Argentina",
+        "period": "2024 - Presente",
+        "hue": 0.56,
+        "note": "Enfoque en arquitecturas escalables y sistemas complejos."
+      },
+      {
+        "degree": "Licenciatura en Gestión de Tecnologías de la Información",
+        "institution": "Universidad Nacional de José Clemente Paz",
+        "location": "Buenos Aires, Argentina",
+        "period": "2019 - 2022",
+        "hue": 0.33
+      },
+      {
+        "degree": "Licenciatura en Administración (En curso)",
+        "institution": "Universidad Nacional de José Clemente Paz",
+        "location": "Buenos Aires, Argentina",
+        "period": "2017 - Presente",
+        "hue": 0.08,
+        "note": "Título intermedio obtenido: Analista Contable."
+      },
+      {
+        "degree": "Analista Programador",
+        "institution": "Universidad Nacional de José Clemente Paz",
+        "location": "Buenos Aires, Argentina",
+        "period": "2013 - 2015",
+        "hue": 0.61
+      }
+    ]
+  }
 }
